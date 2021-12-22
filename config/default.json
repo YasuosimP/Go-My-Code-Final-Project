@@ -1,0 +1,12 @@
+{
+    "DB_CONNECTION" : {
+        "URI":"mongodb+srv://hamza:hamza123@cluster0.wekzo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "SERVER_CONFIG":{
+        "PORT":5000 
+    },
+    "JWT_CONFIG":{
+        "SECRET":"abcdfu" 
+    }
+
+}
